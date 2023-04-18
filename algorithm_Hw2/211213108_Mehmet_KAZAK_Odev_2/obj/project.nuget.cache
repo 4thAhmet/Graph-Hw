@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i28DLA0y2yXoY0GoTcYBMDg6/96hD0a9KfWSeNDg7iiCzKjqc/ygYajCowJYvYStWzaJ1cqtZb19nGljcudM3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mehmet\\Desktop\\211213108_Mehmet_KAZAK_Odev_2\\211213108_Mehmet_KAZAK_Odev_2\\211213108_Mehmet_KAZAK_Odev_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mehmet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

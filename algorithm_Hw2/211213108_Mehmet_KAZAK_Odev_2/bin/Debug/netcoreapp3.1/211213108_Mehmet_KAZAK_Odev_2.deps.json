@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "211213108_Mehmet_KAZAK_Odev_2/1.0.0": {
+        "runtime": {
+          "211213108_Mehmet_KAZAK_Odev_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "211213108_Mehmet_KAZAK_Odev_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
